@@ -58,7 +58,7 @@ Overall CGPA       : 7.89
 
 ## Project Files
 CGPA-Calculator/
-├── main.cpp
+├── CGPA_calculator.cpp
 ├── README.md
 
 ## What I Learned
